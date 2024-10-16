@@ -38,3 +38,5 @@ const run = async () => {
     await main()
     db.close()
 }
+
+run()
